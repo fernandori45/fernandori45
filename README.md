@@ -3,13 +3,13 @@
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning JavaScript and Java
 
-<a href="https://github.com/BrunoGonSouza">
+<a href="https://">
   <img height="160em " src="https://github-readme-stats.vercel.app/api?username=brunogonsouza&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunogonsouza&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://https://github.com/fernandori45">
+  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg">
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
