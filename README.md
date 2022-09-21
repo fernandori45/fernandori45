@@ -20,8 +20,8 @@
 
 <div> 
   <a //href = "mailto:fernandoribeiro972012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a //href="https://www.linkedin.com/in/gon%C3%A7alvesbruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a //href="https://web.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a //href="https://www.linkedin.com/in/fernando-ribeiro-317796174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a //href="http://api.whatsapp.com/send?1=pt_BR&phone=5511976934162" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
   ![snake gif](https://github.com/BrunoGonSouza/BrunoGonSouza/blob/output/github-contribution-grid-snake.svg)
 </div>
